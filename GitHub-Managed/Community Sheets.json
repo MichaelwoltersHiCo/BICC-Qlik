@@ -1,0 +1,16 @@
+
+SHEETS
+{"qInfo":{"qId":"MgJQJZ","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"MgJQJZ","approved":false,"published":false,"owner":"bHitmWP3sUO73U0FkVtDtPE_pqpju5WauhQnNy02TD8","ownerId":"653fbc64f5324ff37e6cfbf6","createdDate":"2025-11-20T14:11:55.567Z","modifiedDate":"2025-11-20T14:11:55.567Z","encrypted":true,"privileges":["read","update","delete","publish","change_owner"],"title":"Base Sheet 2","description":""},"qData":[]}
+{"qInfo":{"qId":"yNmEGyt","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"yNmEGyt","approved":false,"published":true,"publishTime":"2025-09-10T05:08:14.955Z","owner":"bHitmWP3sUO73U0FkVtDtPE_pqpju5WauhQnNy02TD8","ownerId":"653fbc64f5324ff37e6cfbf6","createdDate":"2025-11-20T14:11:55.579Z","modifiedDate":"2025-11-20T14:11:55.579Z","encrypted":true,"privileges":["read","publish","change_owner"],"title":"Base Sheet","description":""},"qData":[]}
+
+OBJECTS ON SHEETS
+{"name":"hebDLVh","type":"barchart","col":0,"row":0,"colspan":12,"rowspan":6,"bounds":{"y":0,"x":0,"width":50,"height":50}}
+{"name":"rgwuPe","type":"barchart","col":0,"row":0,"colspan":12,"rowspan":6,"bounds":{"y":0,"x":0,"width":50,"height":50}}
+
+DIMENSIONS
+
+MEASURES
+
+VARIABLES
+
+FIELDS
